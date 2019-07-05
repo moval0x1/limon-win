@@ -1,5 +1,13 @@
 # limon-win
-A windows version from Limon (https://github.com/monnappa22/Limon)
+A windows version from Limon (https://github.com/monnappa22/Limon).
+
+
+## Done
+* Static analysis
+
+## Backlog
+* Dynamic analysis
+* Memory analysis
 
 
 ## Requirements
@@ -27,3 +35,4 @@ __DON'T FORGET!__ All binaries MUST be accessed by cmd, so... You need to add al
 ### Windows stuff
 * [python 3.6.8](https://www.python.org/downloads/release/python-368/)
 * [strings](https://docs.microsoft.com/en-us/sysinternals/downloads/strings)
+
